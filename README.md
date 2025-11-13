@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-
 ![Stars](https://img.shields.io/github/stars/AntonioDS1/html-counter?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/AntonioDS1/html-counter?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/AntonioDS1/html-counter?style=for-the-badge)
@@ -16,7 +15,7 @@
   <h3 align="center">JavaScript Counter</h3>
 
   <p align="center">
-    Un counter interamente generato tramite JavaScript, senza HTML statico: elementi, stile, animazioni e funzionalità sono costruiti via DOM API.
+    Un counter interamente generato tramite JavaScript, senza HTML statico: elementi, stile e animazioni creati via DOM API.
     <br />
     <a href="https://antoniods1.github.io/html-counter"><strong>Visita la demo »</strong></a>
     <br /><br />
@@ -32,18 +31,16 @@
 
 ![Screenshot](assets/img/CounterOGImage.png)
 
-Questo progetto mostra come costruire una mini-applicazione **completamente tramite JavaScript**, senza usare HTML precompilato.  
-L’interfaccia e le logiche vengono create dinamicamente:
+Questo progetto mostra come costruire una mini-applicazione completamente tramite JavaScript, senza HTML precompilato.  
+L’interfaccia e la logica vengono create dinamicamente:
 
 ✔️ Interfaccia generata al 100% via JavaScript  
-✔️ Pulsanti `+`, `−` e `↺` con animazioni hover e click  
-✔️ Conferma prima di passare ai numeri negativi  
+✔️ Pulsanti `+`, `−` e `↺` con animazioni  
+✔️ Conferma prima dei numeri negativi  
 ✔️ Layout responsive  
-✔️ Immagine laterale interattiva (“shower”) che apre il repository  
-✔️ Meta-tag OG e Twitter integrati (anteprima social)  
+✔️ Immagine laterale “shower” cliccabile  
+✔️ Meta-tag OG e Twitter integrati  
 ✔️ Nessuna libreria esterna
-
-Il progetto è ideale per esercitarsi nella **manipolazione del DOM**, nella creazione dinamica degli elementi, e nella gestione degli eventi.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -51,10 +48,10 @@ Il progetto è ideale per esercitarsi nella **manipolazione del DOM**, nella cre
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
-- JavaScript (DOM, Eventi, Stili dinamici)
-- GitHub Pages per il deploy
+- HTML5  
+- CSS3  
+- JavaScript (DOM, Eventi, Stili dinamici)  
+- GitHub Pages per il deploy  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,28 +59,27 @@ Il progetto è ideale per esercitarsi nella **manipolazione del DOM**, nella cre
 
 ## 🚀 Getting Started
 
-### Installazione
+Per iniziare, clona il repository:
 
-Clona il repository:
+    git clone https://github.com/AntonioDS1/html-counter.git
 
-```sh
-git clone https://github.com/AntonioDS1/html-counter.git/
-
-###
-<>
-Apri il file index.html.
+Apri il file `index.html`.  
 Non sono richieste dipendenze.
 
-Online Demo
-Il progetto è disponibile qui:
+### Online Demo
+Il progetto è disponibile qui:  
 👉 https://antoniods1.github.io/html-counter
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-📬 Contact
-Antonio De Siena
-GitHub: https://github.com/AntonioDS1
+
+---
+
+## 📬 Contact
+
+**Antonio De Siena**  
+GitHub: https://github.com/AntonioDS1  
 Project Link: https://antoniods1.github.io/html-counter
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-</>
-```
+
+---
