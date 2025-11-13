@@ -78,6 +78,7 @@ Il progetto è disponibile qui:
 
 **Antonio De Siena**  
 GitHub: https://github.com/AntonioDS1  
+Repository del progetto: https://github.com/AntonioDS1/html-counter
 Project Link: <a href="https://antoniods1.github.io/html-counter" target="_blank">https://antoniods1.github.io/html-counter</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
